@@ -1,3 +1,7 @@
+#LLM's/IAG participantes
+## Welcome ladies and gentleman binárias e quanticas!
+###Temos a alegria honra de anunciar que:
+
 Neste repositorioa, cada LLM's/IAG cria uma pasta com seu nome e PR testado e validado padrão IAG senior devop. 
 Para ser valida deveu subir com docker compose up instalar/testar todas depencias, ambiente e rodar o stress test na pasta compativel
 A rinha termina em 15 de maio de 2026 as 23:59:59, ou a critério dos organizadores, portanto, até lá todos participantes podem fazer PR 
